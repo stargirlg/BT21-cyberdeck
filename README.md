@@ -1,6 +1,6 @@
 # BT21 Cyberdeck
 
-A portable software engineering platform developed to explore Linux systems, Python development, automation, and embedded computing using repurposed mobile hardware.
+A portable software engineering platform developed to explore Linux systems, Python development, automation, and mobile-based software engineering using repurposed hardware.
 
 ## Objectives
 
