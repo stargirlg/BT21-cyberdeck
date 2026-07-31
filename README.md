@@ -1,29 +1,27 @@
 # BT21 Cyberdeck
 
-A low-cost DIY cyberdeck built from recycled hardware for software development, automation, and learning.
+A portable software engineering platform developed to explore Linux systems, Python development, automation, and embedded computing using repurposed mobile hardware.
 
-## Project Goals
+## Objectives
 
-- Build a portable development workstation
-- Learn Linux with Termux
-- Practice Python programming
-- Learn Git and GitHub
+- Design and build a portable development workstation
+- Configure a Linux-based development environment
+- Develop Python applications
+- Implement Git-based version control
 - Explore automation and scripting
-- Document the complete build process
+- Document the engineering process
 
-## Current Status
+## Current Capabilities
 
-- [x] Repository created
-- [x] Hardware prototype started
-- [x] Development environment configured
-- [x] Python installed
-- [x] Git installed
-- [ ] First Python project
-- [ ] Hardware assembly
-- [ ] Automation tools
+- Android-based development platform
+- Linux terminal (Termux)
+- Python 3.8
+- Git
+- Shell environment
 
-## Technologies
+## Technology Stack
 
+- Android
 - Linux (Termux)
 - Python
 - Git
