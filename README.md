@@ -4,7 +4,8 @@ A portable software engineering platform developed to explore Linux systems, Pyt
 
 ## Hardware
 
-![BT21 Cyberdeck](images/cyberdeck.PNG)
+![Uploading cyberdeck.png…]()
+
 
 ## Objectives
 
