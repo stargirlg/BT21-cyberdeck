@@ -2,10 +2,9 @@
 
 A portable software engineering platform developed to explore Linux systems, Python development, automation, and mobile-based software engineering using repurposed hardware.
 
-## Hardware
+## Hardward
 
-![BT21 Cyberdeck]
-(images/cyberdeck.png)
+![BT21 Cyberdeck](images/cyberdeck.png)
 
 
 ## Objectives
