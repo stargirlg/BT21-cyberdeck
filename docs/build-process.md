@@ -1,3 +1,4 @@
+
 BT21 Cyberdeck — Build Process
 Hardware Selection
 Selected a repurposed Android phone and a compact wireless keyboard.
